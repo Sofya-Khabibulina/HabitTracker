@@ -1,0 +1,717 @@
+2025-06-08 13:01:15,122 - habit_tracker - INFO - [logger.py:51] - Logging system initialized
+2025-06-08 13:01:15,135 - services.data_manager - INFO - [data_manager.py:55] - No existing data file found, starting with empty data
+2025-06-08 13:01:15,136 - services.data_manager - INFO - [data_manager.py:36] - Data manager initialized successfully
+2025-06-08 13:01:15,136 - __main__ - INFO - [bot.py:43] - Starting Habit Tracker Bot...
+2025-06-08 13:01:19,637 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-08 13:01:19,638 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7636348943)
+2025-06-08 13:01:25,878 - habit_tracker - INFO - [logger.py:51] - Logging system initialized
+2025-06-08 13:01:25,889 - services.data_manager - INFO - [data_manager.py:55] - No existing data file found, starting with empty data
+2025-06-08 13:01:25,889 - services.data_manager - INFO - [data_manager.py:36] - Data manager initialized successfully
+2025-06-08 13:01:25,889 - __main__ - INFO - [bot.py:43] - Starting Habit Tracker Bot...
+2025-06-08 13:01:30,880 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-08 13:01:30,880 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7636348943)
+2025-06-08 13:01:36,845 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-08 13:01:36,846 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 1.444736 seconds and try again... (tryings = 1, bot id = 7636348943)
+2025-06-08 13:01:56,488 - habit_tracker - INFO - [logger.py:51] - Logging system initialized
+2025-06-08 13:01:56,500 - services.data_manager - INFO - [data_manager.py:55] - No existing data file found, starting with empty data
+2025-06-08 13:01:56,500 - services.data_manager - INFO - [data_manager.py:36] - Data manager initialized successfully
+2025-06-08 13:01:56,501 - __main__ - INFO - [bot.py:43] - Starting Habit Tracker Bot...
+2025-06-08 13:02:00,986 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-08 13:02:00,986 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7636348943)
+2025-06-08 13:02:06,495 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-08 13:02:06,495 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 1.278061 seconds and try again... (tryings = 1, bot id = 7636348943)
+2025-06-08 13:02:12,775 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-08 13:02:12,776 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 1.572175 seconds and try again... (tryings = 2, bot id = 7636348943)
+2025-06-08 13:02:19,966 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-08 13:02:19,966 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 1.993352 seconds and try again... (tryings = 3, bot id = 7636348943)
+2025-06-08 13:02:25,219 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-08 13:02:25,219 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 2.438302 seconds and try again... (tryings = 4, bot id = 7636348943)
+2025-06-08 13:02:34,901 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-08 13:02:34,902 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 3.055898 seconds and try again... (tryings = 5, bot id = 7636348943)
+2025-06-08 13:02:43,246 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-08 13:02:43,246 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 3.781116 seconds and try again... (tryings = 6, bot id = 7636348943)
+2025-06-08 13:02:52,083 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-08 13:02:52,084 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 4.891576 seconds and try again... (tryings = 7, bot id = 7636348943)
+2025-06-08 13:02:53,535 - aiogram.dispatcher - WARNING - [dispatcher.py:491] - Received SIGTERM signal
+2025-06-08 13:04:05,137 - habit_tracker - INFO - [logger.py:51] - Logging system initialized
+2025-06-08 13:04:05,152 - services.data_manager - INFO - [data_manager.py:55] - No existing data file found, starting with empty data
+2025-06-08 13:04:05,152 - services.data_manager - INFO - [data_manager.py:36] - Data manager initialized successfully
+2025-06-08 13:04:05,152 - __main__ - INFO - [bot.py:43] - Starting Habit Tracker Bot...
+2025-06-08 13:04:09,642 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-08 13:04:09,642 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7636348943)
+2025-06-08 13:04:14,937 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-08 13:04:14,938 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 1.424389 seconds and try again... (tryings = 1, bot id = 7636348943)
+2025-06-08 13:04:20,849 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-08 13:04:20,849 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 1.649686 seconds and try again... (tryings = 2, bot id = 7636348943)
+2025-06-08 13:04:27,377 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-08 13:04:27,377 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 2.180021 seconds and try again... (tryings = 3, bot id = 7636348943)
+2025-06-08 13:04:34,986 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-08 13:04:34,986 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 2.815826 seconds and try again... (tryings = 4, bot id = 7636348943)
+2025-06-08 13:04:41,085 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-08 13:04:41,085 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 3.689277 seconds and try again... (tryings = 5, bot id = 7636348943)
+2025-06-08 13:04:44,882 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 104] Connection reset by peer
+2025-06-08 13:04:44,882 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 4.878901 seconds and try again... (tryings = 6, bot id = 7636348943)
+2025-06-08 13:04:54,038 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-08 13:04:54,039 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 5.068476 seconds and try again... (tryings = 7, bot id = 7636348943)
+2025-06-08 13:05:04,229 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-08 13:05:04,229 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 5.122997 seconds and try again... (tryings = 8, bot id = 7636348943)
+2025-06-08 13:05:12,638 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2025-06-08 13:05:12,638 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7636348943)
+2025-06-08 13:05:13,742 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2025-06-08 13:05:13,743 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 1.330278 seconds and try again... (tryings = 1, bot id = 7636348943)
+2025-06-08 13:05:15,179 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2025-06-08 13:05:15,180 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 1.691168 seconds and try again... (tryings = 2, bot id = 7636348943)
+2025-06-08 13:05:16,976 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2025-06-08 13:05:16,976 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 2.244524 seconds and try again... (tryings = 3, bot id = 7636348943)
+2025-06-08 13:05:19,326 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2025-06-08 13:05:19,326 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 2.918119 seconds and try again... (tryings = 4, bot id = 7636348943)
+2025-06-08 13:05:22,350 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2025-06-08 13:05:22,351 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 3.841528 seconds and try again... (tryings = 5, bot id = 7636348943)
+2025-06-08 13:05:26,301 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2025-06-08 13:05:26,301 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 4.807137 seconds and try again... (tryings = 6, bot id = 7636348943)
+2025-06-08 13:05:31,214 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2025-06-08 13:05:31,214 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 4.900590 seconds and try again... (tryings = 7, bot id = 7636348943)
+2025-06-08 13:05:36,224 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2025-06-08 13:05:36,224 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 5.153767 seconds and try again... (tryings = 8, bot id = 7636348943)
+2025-06-08 13:05:41,486 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2025-06-08 13:05:41,486 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 5.133101 seconds and try again... (tryings = 9, bot id = 7636348943)
+2025-06-08 13:05:46,730 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2025-06-08 13:05:46,730 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 5.099839 seconds and try again... (tryings = 10, bot id = 7636348943)
+2025-06-08 13:05:51,941 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2025-06-08 13:05:51,941 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 4.953014 seconds and try again... (tryings = 11, bot id = 7636348943)
+2025-06-08 13:05:57,002 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2025-06-08 13:05:57,002 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 5.127236 seconds and try again... (tryings = 12, bot id = 7636348943)
+2025-06-08 13:06:02,233 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2025-06-08 13:06:02,234 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 4.955244 seconds and try again... (tryings = 13, bot id = 7636348943)
+2025-06-08 13:06:07,297 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2025-06-08 13:06:07,298 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 5.018233 seconds and try again... (tryings = 14, bot id = 7636348943)
+2025-06-08 13:06:12,425 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2025-06-08 13:06:12,425 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 4.985381 seconds and try again... (tryings = 15, bot id = 7636348943)
+2025-06-08 13:06:17,549 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2025-06-08 13:06:17,549 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 4.892204 seconds and try again... (tryings = 16, bot id = 7636348943)
+2025-06-08 13:06:22,550 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2025-06-08 13:06:22,550 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 4.974233 seconds and try again... (tryings = 17, bot id = 7636348943)
+2025-06-08 13:06:27,636 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2025-06-08 13:06:27,637 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 5.048488 seconds and try again... (tryings = 18, bot id = 7636348943)
+2025-06-08 13:06:32,789 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2025-06-08 13:06:32,789 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 5.040602 seconds and try again... (tryings = 19, bot id = 7636348943)
+2025-06-08 13:06:37,938 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2025-06-08 13:06:37,938 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 4.993923 seconds and try again... (tryings = 20, bot id = 7636348943)
+2025-06-08 13:06:43,042 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2025-06-08 13:06:43,042 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 4.958732 seconds and try again... (tryings = 21, bot id = 7636348943)
+2025-06-08 13:06:48,110 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2025-06-08 13:06:48,110 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 4.948280 seconds and try again... (tryings = 22, bot id = 7636348943)
+2025-06-08 13:06:53,167 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2025-06-08 13:06:53,167 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 5.038877 seconds and try again... (tryings = 23, bot id = 7636348943)
+2025-06-08 13:06:58,316 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2025-06-08 13:06:58,316 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 5.044723 seconds and try again... (tryings = 24, bot id = 7636348943)
+2025-06-08 13:07:00,344 - aiogram.dispatcher - WARNING - [dispatcher.py:491] - Received SIGTERM signal
+2025-06-08 13:07:52,558 - habit_tracker - INFO - [logger.py:51] - Logging system initialized
+2025-06-08 13:07:52,569 - services.data_manager - INFO - [data_manager.py:55] - No existing data file found, starting with empty data
+2025-06-08 13:07:52,570 - services.data_manager - INFO - [data_manager.py:36] - Data manager initialized successfully
+2025-06-08 13:07:52,570 - __main__ - INFO - [bot.py:43] - Starting Habit Tracker Bot...
+2025-06-08 13:08:26,574 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T13:08:26.574026 | ID:1091949169 | @sofya_khabibulina | start_command
+2025-06-08 13:08:32,628 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T13:08:32.628890 | ID:1091949169 | @sofya_khabibulina | language_selected_ru
+2025-06-08 13:08:32,630 - aiogram.event - ERROR - [dispatcher.py:315] - Cause exception while process update id=851324724 by bot id=7729399669
+ValidationError: 1 validation error for EditMessageText
+reply_markup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=ReplyKeyboardMarkup(keybo...е...', selective=None), input_type=ReplyKeyboardMarkup]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/middlewares/throttling.py", line 55, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/routers/commands.py", line 72, in process_language_selection
+    await callback.message.edit_text(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/types/message.py", line 3634, in edit_text
+    return EditMessageText(
+           ^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/pydantic/main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pydantic_core._pydantic_core.ValidationError: 1 validation error for EditMessageText
+reply_markup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=ReplyKeyboardMarkup(keybo...е...', selective=None), input_type=ReplyKeyboardMarkup]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-06-08 13:08:51,522 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T13:08:51.522063 | ID:1091949169 | @sofya_khabibulina | language_selected_ru
+2025-06-08 13:08:51,523 - aiogram.event - ERROR - [dispatcher.py:315] - Cause exception while process update id=851324725 by bot id=7729399669
+ValidationError: 1 validation error for EditMessageText
+reply_markup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=ReplyKeyboardMarkup(keybo...е...', selective=None), input_type=ReplyKeyboardMarkup]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/middlewares/throttling.py", line 55, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/routers/commands.py", line 72, in process_language_selection
+    await callback.message.edit_text(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/types/message.py", line 3634, in edit_text
+    return EditMessageText(
+           ^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/pydantic/main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pydantic_core._pydantic_core.ValidationError: 1 validation error for EditMessageText
+reply_markup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=ReplyKeyboardMarkup(keybo...е...', selective=None), input_type=ReplyKeyboardMarkup]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-06-08 13:08:53,479 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T13:08:53.479045 | ID:1091949169 | @sofya_khabibulina | language_selected_en
+2025-06-08 13:08:53,480 - aiogram.event - ERROR - [dispatcher.py:315] - Cause exception while process update id=851324726 by bot id=7729399669
+ValidationError: 1 validation error for EditMessageText
+reply_markup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=ReplyKeyboardMarkup(keybo...ion...', selective=None), input_type=ReplyKeyboardMarkup]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/middlewares/throttling.py", line 55, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/routers/commands.py", line 72, in process_language_selection
+    await callback.message.edit_text(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/types/message.py", line 3634, in edit_text
+    return EditMessageText(
+           ^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/pydantic/main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pydantic_core._pydantic_core.ValidationError: 1 validation error for EditMessageText
+reply_markup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=ReplyKeyboardMarkup(keybo...ion...', selective=None), input_type=ReplyKeyboardMarkup]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-06-08 13:09:24,659 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T13:09:24.659157 | ID:1091949169 | @sofya_khabibulina | help_command
+2025-06-08 13:09:37,948 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T13:09:37.948459 | ID:1091949169 | @sofya_khabibulina | language_command
+2025-06-08 13:09:39,312 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T13:09:39.312348 | ID:1091949169 | @sofya_khabibulina | language_selected_ru
+2025-06-08 13:09:39,314 - aiogram.event - ERROR - [dispatcher.py:315] - Cause exception while process update id=851324729 by bot id=7729399669
+ValidationError: 1 validation error for EditMessageText
+reply_markup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=ReplyKeyboardMarkup(keybo...е...', selective=None), input_type=ReplyKeyboardMarkup]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/middlewares/throttling.py", line 55, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/routers/commands.py", line 72, in process_language_selection
+    await callback.message.edit_text(welcome_text)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/types/message.py", line 3634, in edit_text
+    return EditMessageText(
+           ^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/pydantic/main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pydantic_core._pydantic_core.ValidationError: 1 validation error for EditMessageText
+reply_markup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=ReplyKeyboardMarkup(keybo...е...', selective=None), input_type=ReplyKeyboardMarkup]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-06-08 13:09:45,972 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T13:09:45.972368 | ID:1091949169 | @sofya_khabibulina | add_habit_command
+2025-06-08 13:10:09,943 - services.data_manager - INFO - [data_manager.py:113] - Added habit 'Вставать рано' for user 1091949169
+2025-06-08 13:10:09,944 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T13:10:09.943999 | ID:1091949169 | @sofya_khabibulina | habit_created_Вставать рано_daily
+2025-06-08 13:10:38,860 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T13:10:38.860551 | ID:1091949169 | @sofya_khabibulina | help_command
+2025-06-08 13:10:52,028 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T13:10:52.028011 | ID:1091949169 | @sofya_khabibulina | check_in_command
+2025-06-08 13:10:56,093 - services.data_manager - INFO - [data_manager.py:178] - Recorded check-in for habit 30df1df3-2316-4e95-b095-457f5016169b by user 1091949169
+2025-06-08 13:10:56,094 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T13:10:56.094128 | ID:1091949169 | @sofya_khabibulina | habit_checkin_30df1df3-2316-4e95-b095-457f5016169b
+2025-06-08 13:10:56,196 - services.api_client - ERROR - [api_client.py:104] - Client error: Cannot connect to host api.quotable.io:443 ssl:default [Temporary failure in name resolution]
+2025-06-08 13:10:56,197 - services.api_client - ERROR - [api_client.py:66] - HTTP client error while fetching quote: Cannot connect to host api.quotable.io:443 ssl:default [Temporary failure in name resolution]
+2025-06-08 13:11:04,165 - aiogram.dispatcher - WARNING - [dispatcher.py:491] - Received SIGTERM signal
+2025-06-08 13:11:07,394 - habit_tracker - INFO - [logger.py:51] - Logging system initialized
+2025-06-08 13:11:07,409 - services.data_manager - INFO - [data_manager.py:53] - Data loaded successfully from file
+2025-06-08 13:11:07,410 - services.data_manager - INFO - [data_manager.py:36] - Data manager initialized successfully
+2025-06-08 13:11:07,410 - __main__ - INFO - [bot.py:43] - Starting Habit Tracker Bot...
+2025-06-08 13:11:07,840 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T13:11:07.840611 | ID:1091949169 | @sofya_khabibulina | progress_command
+2025-06-08 13:11:10,249 - aiogram.dispatcher - WARNING - [dispatcher.py:491] - Received SIGTERM signal
+2025-06-08 13:11:12,713 - habit_tracker - INFO - [logger.py:51] - Logging system initialized
+2025-06-08 13:11:12,725 - services.data_manager - INFO - [data_manager.py:53] - Data loaded successfully from file
+2025-06-08 13:11:12,725 - services.data_manager - INFO - [data_manager.py:36] - Data manager initialized successfully
+2025-06-08 13:11:12,726 - __main__ - INFO - [bot.py:43] - Starting Habit Tracker Bot...
+2025-06-08 13:11:13,165 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T13:11:13.165277 | ID:1091949169 | @sofya_khabibulina | add_habit_command
+2025-06-08 13:11:26,404 - aiogram.dispatcher - WARNING - [dispatcher.py:491] - Received SIGTERM signal
+2025-06-08 13:11:28,817 - habit_tracker - INFO - [logger.py:51] - Logging system initialized
+2025-06-08 13:11:28,828 - services.data_manager - INFO - [data_manager.py:53] - Data loaded successfully from file
+2025-06-08 13:11:28,828 - services.data_manager - INFO - [data_manager.py:36] - Data manager initialized successfully
+2025-06-08 13:11:28,828 - __main__ - INFO - [bot.py:43] - Starting Habit Tracker Bot...
+2025-06-08 13:11:54,746 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T13:11:54.746587 | ID:1091949169 | @sofya_khabibulina | start_command
+2025-06-08 13:11:57,312 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T13:11:57.312815 | ID:1091949169 | @sofya_khabibulina | language_selected_ru
+2025-06-08 13:12:57,760 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T13:12:57.760194 | ID:1091949169 | @sofya_khabibulina | help_command
+2025-06-08 13:13:00,311 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T13:13:00.311182 | ID:1091949169 | @sofya_khabibulina | add_habit_command
+2025-06-08 13:13:11,757 - services.data_manager - INFO - [data_manager.py:113] - Added habit 'Пить воду' for user 1091949169
+2025-06-08 13:13:11,757 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T13:13:11.757575 | ID:1091949169 | @sofya_khabibulina | habit_created_Пить воду_daily
+2025-06-08 13:13:16,397 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T13:13:16.397634 | ID:1091949169 | @sofya_khabibulina | progress_command
+2025-06-08 13:15:09,349 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T13:15:09.349473 | ID:1091949169 | @sofya_khabibulina | start_command
+2025-06-08 13:15:59,837 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T13:15:59.837806 | ID:1091949169 | @sofya_khabibulina | help_command
+2025-06-08 13:16:14,565 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T13:16:14.565062 | ID:1091949169 | @sofya_khabibulina | add_habit_command
+2025-06-08 13:16:24,686 - services.data_manager - INFO - [data_manager.py:113] - Added habit 'Погулять' for user 1091949169
+2025-06-08 13:16:24,686 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T13:16:24.686134 | ID:1091949169 | @sofya_khabibulina | habit_created_Погулять_weekly
+2025-06-08 13:16:41,831 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T13:16:41.831446 | ID:1091949169 | @sofya_khabibulina | help_command
+2025-06-08 13:16:45,282 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T13:16:45.282744 | ID:1091949169 | @sofya_khabibulina | add_habit_command
+2025-06-08 13:16:54,473 - services.data_manager - INFO - [data_manager.py:113] - Added habit 'Пить воду' for user 1091949169
+2025-06-08 13:16:54,473 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T13:16:54.473641 | ID:1091949169 | @sofya_khabibulina | habit_created_Пить воду_daily
+2025-06-08 13:17:00,211 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T13:17:00.211627 | ID:1091949169 | @sofya_khabibulina | help_command
+2025-06-08 13:17:05,537 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T13:17:05.537188 | ID:1091949169 | @sofya_khabibulina | add_habit_command
+2025-06-08 13:17:17,887 - services.data_manager - INFO - [data_manager.py:113] - Added habit 'Бегать' for user 1091949169
+2025-06-08 13:17:17,887 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T13:17:17.887904 | ID:1091949169 | @sofya_khabibulina | habit_created_Бегать_3_times_week
+2025-06-08 13:17:25,386 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T13:17:25.386867 | ID:1091949169 | @sofya_khabibulina | help_command
+2025-06-08 13:17:28,544 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T13:17:28.543997 | ID:1091949169 | @sofya_khabibulina | delete_habit_command
+2025-06-08 13:17:31,290 - services.data_manager - INFO - [data_manager.py:148] - Deleted habit b6e8c222-e5ff-46fd-8082-51cded14491e for user 1091949169
+2025-06-08 13:17:31,290 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T13:17:31.290818 | ID:1091949169 | @sofya_khabibulina | habit_deleted_b6e8c222-e5ff-46fd-8082-51cded14491e
+2025-06-08 17:27:48,015 - habit_tracker - INFO - [logger.py:51] - Logging system initialized
+2025-06-08 17:27:48,453 - services.data_manager - INFO - [data_manager.py:53] - Data loaded successfully from file
+2025-06-08 17:27:48,455 - services.data_manager - INFO - [data_manager.py:36] - Data manager initialized successfully
+2025-06-08 17:27:48,455 - __main__ - INFO - [bot.py:43] - Starting Habit Tracker Bot...
+2025-06-08 17:27:55,888 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T17:27:55.888909 | ID:1091949169 | @sofya_khabibulina | start_command
+2025-06-08 17:27:59,144 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T17:27:59.144445 | ID:1091949169 | @sofya_khabibulina | language_selected_ru
+2025-06-08 17:28:05,044 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T17:28:05.044707 | ID:1091949169 | @sofya_khabibulina | add_habit_command
+2025-06-08 17:28:22,317 - services.data_manager - INFO - [data_manager.py:113] - Added habit 'Погулять' for user 1091949169
+2025-06-08 17:28:22,317 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T17:28:22.317741 | ID:1091949169 | @sofya_khabibulina | habit_created_Погулять_3_times_week
+2025-06-08 17:28:25,570 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T17:28:25.570959 | ID:1091949169 | @sofya_khabibulina | help_command
+2025-06-08 17:28:36,124 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T17:28:36.124575 | ID:1091949169 | @sofya_khabibulina | progress_command
+2025-06-08 17:28:38,797 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T17:28:38.797884 | ID:1091949169 | @sofya_khabibulina | check_in_command
+2025-06-08 17:29:52,543 - habit_tracker - INFO - [logger.py:51] - Logging system initialized
+2025-06-08 17:29:52,908 - services.data_manager - INFO - [data_manager.py:53] - Data loaded successfully from file
+2025-06-08 17:29:52,908 - services.data_manager - INFO - [data_manager.py:36] - Data manager initialized successfully
+2025-06-08 17:29:52,908 - __main__ - INFO - [bot.py:43] - Starting Habit Tracker Bot...
+2025-06-08 17:29:58,629 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T17:29:58.629012 | ID:1091949169 | @sofya_khabibulina | start_command
+2025-06-08 17:30:02,257 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T17:30:02.257323 | ID:1091949169 | @sofya_khabibulina | language_selected_ru
+2025-06-08 17:30:04,255 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T17:30:04.255950 | ID:1091949169 | @sofya_khabibulina | delete_habit_command
+2025-06-08 17:30:12,525 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T17:30:12.525772 | ID:1091949169 | @sofya_khabibulina | add_habit_command
+2025-06-08 17:30:21,185 - services.data_manager - INFO - [data_manager.py:113] - Added habit 'Погулять' for user 1091949169
+2025-06-08 17:30:21,185 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T17:30:21.185442 | ID:1091949169 | @sofya_khabibulina | habit_created_Погулять_daily
+2025-06-08 17:30:24,800 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T17:30:24.800321 | ID:1091949169 | @sofya_khabibulina | progress_command
+2025-06-08 17:30:27,015 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T17:30:27.015556 | ID:1091949169 | @sofya_khabibulina | check_in_command
+2025-06-08 17:30:28,615 - services.data_manager - INFO - [data_manager.py:178] - Recorded check-in for habit bd2c1a87-27ea-4409-90bd-3c30f46465c6 by user 1091949169
+2025-06-08 17:30:28,615 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T17:30:28.615307 | ID:1091949169 | @sofya_khabibulina | habit_checkin_bd2c1a87-27ea-4409-90bd-3c30f46465c6
+2025-06-08 17:30:29,792 - services.api_client - ERROR - [api_client.py:104] - Client error: Cannot connect to host api.quotable.io:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)')]
+2025-06-08 17:30:29,792 - services.api_client - ERROR - [api_client.py:66] - HTTP client error while fetching quote: Cannot connect to host api.quotable.io:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)')]
+2025-06-08 17:30:40,956 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T17:30:40.956103 | ID:1091949169 | @sofya_khabibulina | delete_habit_command
+2025-06-08 17:31:33,515 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T17:31:33.515617 | ID:1091949169 | @sofya_khabibulina | check_in_command
+2025-06-08 17:31:40,307 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T17:31:40.307819 | ID:1091949169 | @sofya_khabibulina | progress_command
+2025-06-08 17:31:42,680 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T17:31:42.680468 | ID:1091949169 | @sofya_khabibulina | language_command
+2025-06-08 17:31:46,848 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T17:31:46.848586 | ID:1091949169 | @sofya_khabibulina | help_command
+2025-06-08 17:31:51,756 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T17:31:51.756385 | ID:1091949169 | @sofya_khabibulina | delete_habit_command
+2025-06-08 17:31:54,556 - services.data_manager - INFO - [data_manager.py:148] - Deleted habit bd2c1a87-27ea-4409-90bd-3c30f46465c6 for user 1091949169
+2025-06-08 17:31:54,556 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T17:31:54.556049 | ID:1091949169 | @sofya_khabibulina | habit_deleted_bd2c1a87-27ea-4409-90bd-3c30f46465c6
+2025-06-08 17:32:57,423 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T17:32:57.423647 | ID:1091949169 | @sofya_khabibulina | help_command
+2025-06-08 17:33:00,323 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T17:33:00.323005 | ID:1091949169 | @sofya_khabibulina | start_command
+2025-06-08 18:03:58,568 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 1236] Подключение к сети было разорвано локальной системой
+2025-06-08 18:03:58,582 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7785402717)
+2025-06-08 18:03:59,599 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-08 18:03:59,599 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 1.134468 seconds and try again... (tryings = 1, bot id = 7785402717)
+2025-06-08 18:04:00,737 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-08 18:04:00,737 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 1.335302 seconds and try again... (tryings = 2, bot id = 7785402717)
+2025-06-08 18:04:02,080 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-08 18:04:02,080 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 1.696134 seconds and try again... (tryings = 3, bot id = 7785402717)
+2025-06-08 18:04:03,777 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-08 18:04:03,777 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 2.245258 seconds and try again... (tryings = 4, bot id = 7785402717)
+2025-06-08 18:04:06,041 - aiogram.dispatcher - ERROR - [dispatcher.py:219] - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-08 18:04:06,067 - aiogram.dispatcher - WARNING - [dispatcher.py:221] - Sleep for 2.967649 seconds and try again... (tryings = 5, bot id = 7785402717)
+2025-06-08 18:49:52,268 - habit_tracker - INFO - [logger.py:51] - Logging system initialized
+2025-06-08 18:49:52,997 - services.data_manager - INFO - [data_manager.py:53] - Data loaded successfully from file
+2025-06-08 18:49:52,997 - services.data_manager - INFO - [data_manager.py:36] - Data manager initialized successfully
+2025-06-08 18:49:52,997 - __main__ - INFO - [bot.py:43] - Starting Habit Tracker Bot...
+2025-06-08 18:50:13,700 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T18:50:13.700946 | ID:1091949169 | @sofya_khabibulina | start_command
+2025-06-08 18:50:18,010 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T18:50:18.010926 | ID:1091949169 | @sofya_khabibulina | language_selected_en
+2025-06-08 18:50:21,988 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T18:50:21.988781 | ID:1091949169 | @sofya_khabibulina | delete_habit_command
+2025-06-08 18:50:25,609 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T18:50:25.609654 | ID:1091949169 | @sofya_khabibulina | language_command
+2025-06-08 18:50:27,208 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T18:50:27.208668 | ID:1091949169 | @sofya_khabibulina | language_selected_ru
+2025-06-08 18:50:29,128 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T18:50:29.128810 | ID:1091949169 | @sofya_khabibulina | help_command
+2025-06-08 18:50:31,980 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T18:50:31.980248 | ID:1091949169 | @sofya_khabibulina | add_habit_command
+2025-06-08 18:50:44,610 - services.data_manager - INFO - [data_manager.py:113] - Added habit 'Гулять' for user 1091949169
+2025-06-08 18:50:44,618 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T18:50:44.618255 | ID:1091949169 | @sofya_khabibulina | habit_created_Гулять_daily
+2025-06-08 18:50:49,150 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T18:50:49.150120 | ID:1091949169 | @sofya_khabibulina | delete_habit_command
+2025-06-08 18:50:55,424 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T18:50:55.424037 | ID:1091949169 | @sofya_khabibulina | check_in_command
+2025-06-08 18:50:58,262 - services.data_manager - INFO - [data_manager.py:178] - Recorded check-in for habit 2f8c6b40-2704-4056-9fc4-cf3aee60f3b2 by user 1091949169
+2025-06-08 18:50:58,262 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T18:50:58.262812 | ID:1091949169 | @sofya_khabibulina | habit_checkin_2f8c6b40-2704-4056-9fc4-cf3aee60f3b2
+2025-06-08 18:50:59,557 - services.api_client - ERROR - [api_client.py:104] - Client error: Cannot connect to host api.quotable.io:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)')]
+2025-06-08 18:50:59,557 - services.api_client - ERROR - [api_client.py:66] - HTTP client error while fetching quote: Cannot connect to host api.quotable.io:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)')]
+2025-06-08 18:51:27,802 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T18:51:27.802162 | ID:1091949169 | @sofya_khabibulina | admin_stats_command
+2025-06-08 18:51:45,209 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T18:51:45.209164 | ID:1091949169 | @sofya_khabibulina | admin_ban_command
+2025-06-08 18:52:15,885 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T18:52:15.885576 | ID:1091949169 | @sofya_khabibulina | admin_broadcast_command
+2025-06-08 18:52:26,859 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T18:52:26.859789 | ID:1091949169 | @sofya_khabibulina | add_habit_command
+2025-06-08 18:53:47,277 - services.data_manager - INFO - [data_manager.py:113] - Added habit 'Гулять' for user 1091949169
+2025-06-08 18:53:47,277 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T18:53:47.277800 | ID:1091949169 | @sofya_khabibulina | habit_created_Гулять_daily
+2025-06-08 18:53:50,121 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T18:53:50.121346 | ID:1091949169 | @sofya_khabibulina | delete_habit_command
+2025-06-08 18:53:53,681 - services.data_manager - INFO - [data_manager.py:148] - Deleted habit 76d680bc-c06c-4b89-ba28-37d21a014c3d for user 1091949169
+2025-06-08 18:53:53,681 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T18:53:53.681677 | ID:1091949169 | @sofya_khabibulina | habit_deleted_76d680bc-c06c-4b89-ba28-37d21a014c3d
+2025-06-08 18:53:56,760 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T18:53:56.760075 | ID:1091949169 | @sofya_khabibulina | progress_command
+2025-06-08 18:54:05,389 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T18:54:05.389551 | ID:1091949169 | @sofya_khabibulina | admin_stats_command
+2025-06-08 18:54:36,612 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T18:54:36.612144 | ID:1091949169 | @sofya_khabibulina | help_command
+2025-06-08 18:54:43,367 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T18:54:43.367216 | ID:1091949169 | @sofya_khabibulina | language_command
+2025-06-08 18:54:44,857 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T18:54:44.857963 | ID:1091949169 | @sofya_khabibulina | language_selected_en
+2025-06-08 18:54:46,057 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T18:54:46.057929 | ID:1091949169 | @sofya_khabibulina | help_command
+2025-06-08 19:26:32,997 - habit_tracker - INFO - [logger.py:51] - Logging system initialized
+2025-06-08 19:26:33,712 - services.data_manager - INFO - [data_manager.py:53] - Data loaded successfully from file
+2025-06-08 19:26:33,712 - services.data_manager - INFO - [data_manager.py:36] - Data manager initialized successfully
+2025-06-08 19:26:33,712 - __main__ - INFO - [bot.py:43] - Starting Habit Tracker Bot...
+2025-06-08 19:29:12,615 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:29:12.615595 | ID:1091949169 | @sofya_khabibulina | start_command
+2025-06-08 19:29:14,767 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:29:14.767924 | ID:1091949169 | @sofya_khabibulina | language_selected_ru
+2025-06-08 19:29:18,041 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:29:18.041773 | ID:1091949169 | @sofya_khabibulina | help_command
+2025-06-08 19:29:24,709 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:29:24.708196 | ID:1091949169 | @sofya_khabibulina | admin_stats_command
+2025-06-08 19:29:30,329 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:29:30.329411 | ID:1091949169 | @sofya_khabibulina | admin_ban_command
+2025-06-08 19:29:41,174 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:29:41.174229 | ID:1091949169 | @sofya_khabibulina | admin_broadcast_command
+2025-06-08 19:29:58,002 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:29:58.002543 | ID:1091949169 | @sofya_khabibulina | add_habit_command
+2025-06-08 19:30:07,095 - services.data_manager - INFO - [data_manager.py:113] - Added habit 'Пить воду' for user 1091949169
+2025-06-08 19:30:07,099 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:30:07.099698 | ID:1091949169 | @sofya_khabibulina | habit_created_Пить воду_daily
+2025-06-08 19:30:08,768 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:30:08.768353 | ID:1091949169 | @sofya_khabibulina | delete_habit_command
+2025-06-08 19:31:20,022 - services.data_manager - INFO - [data_manager.py:148] - Deleted habit 36834bdd-a026-4a8f-97ce-96cca79feaf1 for user 1091949169
+2025-06-08 19:31:20,022 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:31:20.022831 | ID:1091949169 | @sofya_khabibulina | habit_deleted_36834bdd-a026-4a8f-97ce-96cca79feaf1
+2025-06-08 19:31:22,117 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:31:22.117218 | ID:1091949169 | @sofya_khabibulina | check_in_command
+2025-06-08 19:31:24,634 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:31:24.634438 | ID:1091949169 | @sofya_khabibulina | help_command
+2025-06-08 19:31:32,960 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:31:32.960254 | ID:1091949169 | @sofya_khabibulina | progress_command
+2025-06-08 19:31:34,738 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:31:34.738578 | ID:1091949169 | @sofya_khabibulina | add_habit_command
+2025-06-08 19:31:43,698 - services.data_manager - INFO - [data_manager.py:113] - Added habit 'Гулять' for user 1091949169
+2025-06-08 19:31:43,698 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:31:43.698374 | ID:1091949169 | @sofya_khabibulina | habit_created_Гулять_daily
+2025-06-08 19:31:52,365 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:31:52.365700 | ID:1091949169 | @sofya_khabibulina | add_habit_command
+2025-06-08 19:31:58,327 - services.data_manager - INFO - [data_manager.py:113] - Added habit 'Мыть руки' for user 1091949169
+2025-06-08 19:31:58,327 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:31:58.327506 | ID:1091949169 | @sofya_khabibulina | habit_created_Мыть руки_daily
+2025-06-08 19:32:03,158 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:32:03.158959 | ID:1091949169 | @sofya_khabibulina | progress_command
+2025-06-08 19:32:05,258 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:32:05.258852 | ID:1091949169 | @sofya_khabibulina | check_in_command
+2025-06-08 19:32:07,387 - services.data_manager - INFO - [data_manager.py:178] - Recorded check-in for habit f85a22f1-aa74-4902-b0d0-0aa2bea6b199 by user 1091949169
+2025-06-08 19:32:07,387 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:32:07.387499 | ID:1091949169 | @sofya_khabibulina | habit_checkin_f85a22f1-aa74-4902-b0d0-0aa2bea6b199
+2025-06-08 19:32:08,574 - services.api_client - ERROR - [api_client.py:104] - Client error: Cannot connect to host api.quotable.io:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)')]
+2025-06-08 19:32:08,574 - services.api_client - ERROR - [api_client.py:66] - HTTP client error while fetching quote: Cannot connect to host api.quotable.io:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)')]
+2025-06-08 19:32:14,720 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:32:14.720557 | ID:1091949169 | @sofya_khabibulina | progress_command
+2025-06-08 19:32:29,635 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:32:29.635210 | ID:1091949169 | @sofya_khabibulina | language_command
+2025-06-08 19:49:27,275 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:49:27.275233 | ID:1091949169 | @sofya_khabibulina | start_command
+2025-06-08 19:50:08,190 - habit_tracker - INFO - [logger.py:51] - Logging system initialized
+2025-06-08 19:50:08,844 - services.data_manager - INFO - [data_manager.py:53] - Data loaded successfully from file
+2025-06-08 19:50:08,846 - services.data_manager - INFO - [data_manager.py:36] - Data manager initialized successfully
+2025-06-08 19:50:08,846 - __main__ - INFO - [bot.py:43] - Starting Habit Tracker Bot...
+2025-06-08 19:50:14,629 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:50:14.629246 | ID:1091949169 | @sofya_khabibulina | start_command
+2025-06-08 19:50:19,543 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:50:19.543796 | ID:1091949169 | @sofya_khabibulina | language_selected_ru
+2025-06-08 19:50:22,058 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:50:22.058873 | ID:1091949169 | @sofya_khabibulina | add_habit_command
+2025-06-08 19:50:30,346 - services.data_manager - INFO - [data_manager.py:113] - Added habit 'Гулять' for user 1091949169
+2025-06-08 19:50:30,346 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:50:30.346165 | ID:1091949169 | @sofya_khabibulina | habit_created_Гулять_daily
+2025-06-08 19:50:34,862 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:50:34.862724 | ID:1091949169 | @sofya_khabibulina | progress_command
+2025-06-08 19:50:38,189 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:50:38.189244 | ID:1091949169 | @sofya_khabibulina | add_habit_command
+2025-06-08 19:50:48,272 - services.data_manager - INFO - [data_manager.py:113] - Added habit 'Пить воду' for user 1091949169
+2025-06-08 19:50:48,272 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:50:48.272980 | ID:1091949169 | @sofya_khabibulina | habit_created_Пить воду_daily
+2025-06-08 19:50:51,212 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:50:51.212110 | ID:1091949169 | @sofya_khabibulina | check_in_command
+2025-06-08 19:50:53,580 - services.data_manager - INFO - [data_manager.py:178] - Recorded check-in for habit ad132809-56da-4752-9c3d-75df2e79d282 by user 1091949169
+2025-06-08 19:50:53,580 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:50:53.580242 | ID:1091949169 | @sofya_khabibulina | habit_checkin_ad132809-56da-4752-9c3d-75df2e79d282
+2025-06-08 19:50:54,804 - services.api_client - ERROR - [api_client.py:104] - Client error: Cannot connect to host api.quotable.io:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)')]
+2025-06-08 19:50:54,804 - services.api_client - ERROR - [api_client.py:66] - HTTP client error while fetching quote: Cannot connect to host api.quotable.io:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)')]
+2025-06-08 19:50:58,893 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:50:58.893175 | ID:1091949169 | @sofya_khabibulina | progress_command
+2025-06-08 19:51:03,223 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:51:03.223356 | ID:1091949169 | @sofya_khabibulina | delete_habit_command
+2025-06-08 19:51:05,162 - services.data_manager - INFO - [data_manager.py:148] - Deleted habit ad132809-56da-4752-9c3d-75df2e79d282 for user 1091949169
+2025-06-08 19:51:05,174 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:51:05.174855 | ID:1091949169 | @sofya_khabibulina | habit_deleted_ad132809-56da-4752-9c3d-75df2e79d282
+2025-06-08 19:51:08,241 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:51:08.241599 | ID:1091949169 | @sofya_khabibulina | delete_habit_command
+2025-06-08 19:51:09,478 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:51:09.478204 | ID:1091949169 | @sofya_khabibulina | cancel_button_pressed
+2025-06-08 19:51:09,478 - utils.localization - WARNING - [localization.py:65] - Translation not found for key 'action_canceled' in language 'ru'
+2025-06-08 19:51:13,352 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:51:13.352273 | ID:1091949169 | @sofya_khabibulina | language_command
+2025-06-08 19:51:15,887 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:51:15.887288 | ID:1091949169 | @sofya_khabibulina | language_selected_en
+2025-06-08 19:51:18,482 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:51:18.482853 | ID:1091949169 | @sofya_khabibulina | help_command
+2025-06-08 19:51:21,039 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:51:21.039938 | ID:1091949169 | @sofya_khabibulina | admin_stats_command
+2025-06-08 19:51:21,039 - routers.admin - ERROR - [admin.py:119] - Error getting bot statistics: 'DataManager' object has no attribute 'record_command_usage'
+2025-06-08 19:51:35,991 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:51:35.991573 | ID:1091949169 | @sofya_khabibulina | help_command
+2025-06-08 19:51:37,848 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:51:37.848139 | ID:1091949169 | @sofya_khabibulina | admin_ban_command
+2025-06-08 19:51:44,397 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:51:44.397615 | ID:1091949169 | @sofya_khabibulina | admin_broadcast_command
+2025-06-08 19:52:04,029 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:52:04.029196 | ID:1091949169 | @sofya_khabibulina | help_command
+2025-06-08 19:52:11,997 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:52:11.997000 | ID:1091949169 | @sofya_khabibulina | progress_command
+2025-06-08 19:52:19,313 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:52:19.313660 | ID:1091949169 | @sofya_khabibulina | check_in_command
+2025-06-08 19:52:23,295 - services.data_manager - INFO - [data_manager.py:178] - Recorded check-in for habit 09c0696c-22c6-4499-9b09-aaddc21e8299 by user 1091949169
+2025-06-08 19:52:23,295 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:52:23.295040 | ID:1091949169 | @sofya_khabibulina | habit_checkin_09c0696c-22c6-4499-9b09-aaddc21e8299
+2025-06-08 19:52:24,456 - services.api_client - ERROR - [api_client.py:104] - Client error: Cannot connect to host api.quotable.io:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)')]
+2025-06-08 19:52:24,456 - services.api_client - ERROR - [api_client.py:66] - HTTP client error while fetching quote: Cannot connect to host api.quotable.io:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)')]
+2025-06-08 19:52:41,550 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:52:41.550337 | ID:1091949169 | @sofya_khabibulina | help_command
+2025-06-08 19:52:43,578 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T19:52:43.578924 | ID:1091949169 | @sofya_khabibulina | admin_stats_command
+2025-06-08 19:52:43,578 - routers.admin - ERROR - [admin.py:119] - Error getting bot statistics: 'DataManager' object has no attribute 'record_command_usage'
+2025-06-08 20:16:59,913 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:16:59.913325 | ID:1091949169 | @sofya_khabibulina | admin_stats_command
+2025-06-08 20:16:59,913 - routers.admin - ERROR - [admin.py:119] - Error getting bot statistics: 'DataManager' object has no attribute 'record_command_usage'
+2025-06-08 20:24:20,779 - habit_tracker - INFO - [logger.py:51] - Logging system initialized
+2025-06-08 20:24:21,413 - services.data_manager - INFO - [data_manager.py:53] - Data loaded successfully from file
+2025-06-08 20:24:21,413 - services.data_manager - INFO - [data_manager.py:36] - Data manager initialized successfully
+2025-06-08 20:24:21,413 - __main__ - INFO - [bot.py:43] - Starting Habit Tracker Bot...
+2025-06-08 20:24:34,553 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:24:34.553017 | ID:1091949169 | @sofya_khabibulina | start_command
+2025-06-08 20:24:36,404 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:24:36.404343 | ID:1091949169 | @sofya_khabibulina | language_selected_ru
+2025-06-08 20:24:38,135 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:24:38.135904 | ID:1091949169 | @sofya_khabibulina | add_habit_command
+2025-06-08 20:24:45,923 - services.data_manager - INFO - [data_manager.py:113] - Added habit 'Погулять' for user 1091949169
+2025-06-08 20:24:45,923 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:24:45.923194 | ID:1091949169 | @sofya_khabibulina | habit_created_Погулять_daily
+2025-06-08 20:24:49,285 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:24:49.285166 | ID:1091949169 | @sofya_khabibulina | add_habit_command
+2025-06-08 20:24:56,981 - services.data_manager - INFO - [data_manager.py:113] - Added habit 'Пить воду' for user 1091949169
+2025-06-08 20:24:56,983 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:24:56.983586 | ID:1091949169 | @sofya_khabibulina | habit_created_Пить воду_weekly
+2025-06-08 20:25:01,484 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:25:01.484617 | ID:1091949169 | @sofya_khabibulina | check_in_command
+2025-06-08 20:25:03,318 - services.data_manager - INFO - [data_manager.py:178] - Recorded check-in for habit 90073851-c4ef-4d5d-ae84-0e566b25ed0e by user 1091949169
+2025-06-08 20:25:03,318 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:25:03.318772 | ID:1091949169 | @sofya_khabibulina | habit_checkin_90073851-c4ef-4d5d-ae84-0e566b25ed0e
+2025-06-08 20:25:04,545 - services.api_client - ERROR - [api_client.py:104] - Client error: Cannot connect to host api.quotable.io:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)')]
+2025-06-08 20:25:04,545 - services.api_client - ERROR - [api_client.py:66] - HTTP client error while fetching quote: Cannot connect to host api.quotable.io:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)')]
+2025-06-08 20:25:11,411 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:25:11.411394 | ID:1091949169 | @sofya_khabibulina | progress_command
+2025-06-08 20:25:15,813 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:25:15.813574 | ID:1091949169 | @sofya_khabibulina | delete_habit_command
+2025-06-08 20:25:17,607 - services.data_manager - INFO - [data_manager.py:148] - Deleted habit 90073851-c4ef-4d5d-ae84-0e566b25ed0e for user 1091949169
+2025-06-08 20:25:17,607 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:25:17.607470 | ID:1091949169 | @sofya_khabibulina | habit_deleted_90073851-c4ef-4d5d-ae84-0e566b25ed0e
+2025-06-08 20:25:20,789 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:25:20.789668 | ID:1091949169 | @sofya_khabibulina | delete_habit_command
+2025-06-08 20:25:21,973 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:25:21.973114 | ID:1091949169 | @sofya_khabibulina | cancel_button_pressed
+2025-06-08 20:25:21,973 - utils.localization - WARNING - [localization.py:65] - Translation not found for key 'action_canceled' in language 'ru'
+2025-06-08 20:25:25,768 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:25:25.768694 | ID:1091949169 | @sofya_khabibulina | language_command
+2025-06-08 20:25:28,824 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:25:28.824516 | ID:1091949169 | @sofya_khabibulina | help_command
+2025-06-08 20:25:31,893 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:25:31.893347 | ID:1091949169 | @sofya_khabibulina | admin_stats_command
+2025-06-08 20:25:45,412 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:25:45.412334 | ID:1091949169 | @sofya_khabibulina | help_command
+2025-06-08 20:25:47,873 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:25:47.873945 | ID:1091949169 | @sofya_khabibulina | admin_ban_command
+2025-06-08 20:25:49,813 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:25:49.813221 | ID:1091949169 | @sofya_khabibulina | help_command
+2025-06-08 20:25:51,355 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:25:51.355189 | ID:1091949169 | @sofya_khabibulina | admin_broadcast_command
+2025-06-08 20:25:54,699 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:25:54.699629 | ID:1091949169 | @sofya_khabibulina | help_command
+2025-06-08 20:26:03,424 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:26:03.424706 | ID:1091949169 | @sofya_khabibulina | check_in_command
+2025-06-08 20:26:04,952 - services.data_manager - INFO - [data_manager.py:178] - Recorded check-in for habit 94f21e99-53f6-4f4e-bc81-2267c00cc6ed by user 1091949169
+2025-06-08 20:26:04,952 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:26:04.952606 | ID:1091949169 | @sofya_khabibulina | habit_checkin_94f21e99-53f6-4f4e-bc81-2267c00cc6ed
+2025-06-08 20:26:06,095 - services.api_client - ERROR - [api_client.py:104] - Client error: Cannot connect to host api.quotable.io:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)')]
+2025-06-08 20:26:06,095 - services.api_client - ERROR - [api_client.py:66] - HTTP client error while fetching quote: Cannot connect to host api.quotable.io:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)')]
+2025-06-08 20:26:08,664 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:26:08.664494 | ID:1091949169 | @sofya_khabibulina | check_in_command
+2025-06-08 20:26:19,102 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:26:19.102360 | ID:1091949169 | @sofya_khabibulina | delete_habit_command
+2025-06-08 20:26:21,532 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:26:21.532393 | ID:1091949169 | @sofya_khabibulina | cancel_button_pressed
+2025-06-08 20:26:21,532 - utils.localization - WARNING - [localization.py:65] - Translation not found for key 'action_canceled' in language 'ru'
+2025-06-08 20:26:28,112 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:26:28.112148 | ID:1091949169 | @sofya_khabibulina | progress_command
+2025-06-08 20:26:36,204 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:26:36.204993 | ID:1091949169 | @sofya_khabibulina | help_command
+2025-06-08 20:26:40,053 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:26:40.053077 | ID:1091949169 | @sofya_khabibulina | language_command
+2025-06-08 20:26:41,719 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:26:41.719084 | ID:1091949169 | @sofya_khabibulina | language_selected_en
+2025-06-08 20:26:45,310 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:26:45.310662 | ID:1091949169 | @sofya_khabibulina | add_habit_command
+2025-06-08 20:26:59,543 - services.data_manager - INFO - [data_manager.py:113] - Added habit 'Гулять' for user 1091949169
+2025-06-08 20:26:59,543 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:26:59.543045 | ID:1091949169 | @sofya_khabibulina | habit_created_Гулять_daily
+2025-06-08 20:27:06,942 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:27:06.942493 | ID:1091949169 | @sofya_khabibulina | language_command
+2025-06-08 20:27:15,011 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:27:15.011797 | ID:1091949169 | @sofya_khabibulina | help_command
+2025-06-08 20:27:16,456 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T20:27:16.456774 | ID:1091949169 | @sofya_khabibulina | admin_stats_command
+2025-06-08 21:14:54,765 - habit_tracker - INFO - [logger.py:51] - Logging system initialized
+2025-06-08 21:14:55,172 - services.data_manager - INFO - [data_manager.py:53] - Data loaded successfully from file
+2025-06-08 21:14:55,172 - services.data_manager - INFO - [data_manager.py:36] - Data manager initialized successfully
+2025-06-08 21:14:55,172 - __main__ - INFO - [bot.py:43] - Starting Habit Tracker Bot...
+2025-06-08 21:15:10,270 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:15:10.270572 | ID:1091949169 | @sofya_khabibulina | start_command
+2025-06-08 21:15:14,731 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:15:14.731435 | ID:1091949169 | @sofya_khabibulina | language_selected_ru
+2025-06-08 21:15:17,986 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:15:17.986869 | ID:1091949169 | @sofya_khabibulina | add_habit_command
+2025-06-08 21:15:28,999 - services.data_manager - INFO - [data_manager.py:113] - Added habit 'Купить что-то' for user 1091949169
+2025-06-08 21:15:28,999 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:15:28.999189 | ID:1091949169 | @sofya_khabibulina | habit_created_Купить что-то_daily
+2025-06-08 21:15:33,238 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:15:33.238818 | ID:1091949169 | @sofya_khabibulina | add_habit_command
+2025-06-08 21:15:39,993 - services.data_manager - INFO - [data_manager.py:113] - Added habit 'Гулять' for user 1091949169
+2025-06-08 21:15:39,993 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:15:39.993305 | ID:1091949169 | @sofya_khabibulina | habit_created_Гулять_weekly
+2025-06-08 21:15:42,905 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:15:42.905610 | ID:1091949169 | @sofya_khabibulina | progress_command
+2025-06-08 21:15:44,811 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:15:44.811900 | ID:1091949169 | @sofya_khabibulina | check_in_command
+2025-06-08 21:15:46,837 - services.data_manager - INFO - [data_manager.py:178] - Recorded check-in for habit 7e96d933-d181-424a-ae27-97f14a43207b by user 1091949169
+2025-06-08 21:15:46,837 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:15:46.837592 | ID:1091949169 | @sofya_khabibulina | habit_checkin_7e96d933-d181-424a-ae27-97f14a43207b
+2025-06-08 21:15:48,056 - services.api_client - ERROR - [api_client.py:104] - Client error: Cannot connect to host api.quotable.io:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)')]
+2025-06-08 21:15:48,056 - services.api_client - ERROR - [api_client.py:66] - HTTP client error while fetching quote: Cannot connect to host api.quotable.io:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)')]
+2025-06-08 21:16:15,407 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:16:15.407500 | ID:1091949169 | @sofya_khabibulina | progress_command
+2025-06-08 21:16:21,002 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:16:21.002188 | ID:1091949169 | @sofya_khabibulina | delete_habit_command
+2025-06-08 21:16:23,237 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:16:23.237426 | ID:1091949169 | @sofya_khabibulina | cancel_button_pressed
+2025-06-08 21:16:23,237 - utils.localization - WARNING - [localization.py:65] - Translation not found for key 'action_canceled' in language 'ru'
+2025-06-08 21:16:24,992 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:16:24.992491 | ID:1091949169 | @sofya_khabibulina | delete_habit_command
+2025-06-08 21:16:26,778 - services.data_manager - INFO - [data_manager.py:148] - Deleted habit 7e96d933-d181-424a-ae27-97f14a43207b for user 1091949169
+2025-06-08 21:16:26,778 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:16:26.778484 | ID:1091949169 | @sofya_khabibulina | habit_deleted_7e96d933-d181-424a-ae27-97f14a43207b
+2025-06-08 21:16:29,541 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:16:29.541303 | ID:1091949169 | @sofya_khabibulina | language_command
+2025-06-08 21:16:31,530 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:16:31.530255 | ID:1091949169 | @sofya_khabibulina | language_selected_en
+2025-06-08 21:16:34,203 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:16:34.203081 | ID:1091949169 | @sofya_khabibulina | help_command
+2025-06-08 21:16:40,185 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:16:40.185197 | ID:1091949169 | @sofya_khabibulina | help_command
+2025-06-08 21:16:56,893 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:16:56.893846 | ID:1091949169 | @sofya_khabibulina | language_command
+2025-06-08 21:16:58,250 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:16:58.250699 | ID:1091949169 | @sofya_khabibulina | language_selected_ru
+2025-06-08 21:17:00,603 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:17:00.603455 | ID:1091949169 | @sofya_khabibulina | help_command
+2025-06-08 21:17:03,429 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:17:03.429813 | ID:1091949169 | @sofya_khabibulina | admin_stats_command
+2025-06-08 21:17:07,851 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:17:07.851376 | ID:1091949169 | @sofya_khabibulina | admin_ban_command
+2025-06-08 21:17:13,788 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:17:13.788382 | ID:1091949169 | @sofya_khabibulina | admin_broadcast_command
+2025-06-08 21:17:26,920 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:17:26.920004 | ID:1091949169 | @sofya_khabibulina | add_habit_command
+2025-06-08 21:17:42,963 - services.data_manager - INFO - [data_manager.py:113] - Added habit 'Ходить' for user 1091949169
+2025-06-08 21:17:42,963 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:17:42.963028 | ID:1091949169 | @sofya_khabibulina | habit_created_Ходить_daily
+2025-06-08 21:17:45,561 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:17:45.561562 | ID:1091949169 | @sofya_khabibulina | delete_habit_command
+2025-06-08 21:17:50,064 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:17:50.064893 | ID:1091949169 | @sofya_khabibulina | check_in_command
+2025-06-08 21:17:52,034 - services.data_manager - INFO - [data_manager.py:178] - Recorded check-in for habit 7a117525-609d-4a9a-8a2e-d025fca47c19 by user 1091949169
+2025-06-08 21:17:52,034 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:17:52.034466 | ID:1091949169 | @sofya_khabibulina | habit_checkin_7a117525-609d-4a9a-8a2e-d025fca47c19
+2025-06-08 21:17:53,171 - services.api_client - ERROR - [api_client.py:104] - Client error: Cannot connect to host api.quotable.io:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)')]
+2025-06-08 21:17:53,171 - services.api_client - ERROR - [api_client.py:66] - HTTP client error while fetching quote: Cannot connect to host api.quotable.io:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)')]
+2025-06-08 21:17:55,720 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:17:55.720779 | ID:1091949169 | @sofya_khabibulina | check_in_command
+2025-06-08 21:17:57,379 - services.data_manager - INFO - [data_manager.py:178] - Recorded check-in for habit 6842ff33-d573-47b2-8930-fe33b11b84ba by user 1091949169
+2025-06-08 21:17:57,379 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:17:57.379952 | ID:1091949169 | @sofya_khabibulina | habit_checkin_6842ff33-d573-47b2-8930-fe33b11b84ba
+2025-06-08 21:17:58,441 - services.api_client - ERROR - [api_client.py:104] - Client error: Cannot connect to host api.quotable.io:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)')]
+2025-06-08 21:17:58,441 - services.api_client - ERROR - [api_client.py:66] - HTTP client error while fetching quote: Cannot connect to host api.quotable.io:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)')]
+2025-06-08 21:18:00,589 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:18:00.589772 | ID:1091949169 | @sofya_khabibulina | check_in_command
+2025-06-08 21:18:05,021 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:18:05.021326 | ID:1091949169 | @sofya_khabibulina | progress_command
+2025-06-08 21:18:08,858 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:18:08.858537 | ID:1091949169 | @sofya_khabibulina | delete_habit_command
+2025-06-08 21:18:10,667 - services.data_manager - INFO - [data_manager.py:148] - Deleted habit 7a117525-609d-4a9a-8a2e-d025fca47c19 for user 1091949169
+2025-06-08 21:18:10,667 - habit_tracker.user_actions - INFO - [logger.py:73] - USER_ACTION | 2025-06-08T21:18:10.667380 | ID:1091949169 | @sofya_khabibulina | habit_deleted_7a117525-609d-4a9a-8a2e-d025fca47c19
