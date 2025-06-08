@@ -46,14 +46,9 @@ pip install -r requirements.txt
 # Or Install dependencies
 pip install aiogram aiohttp python-dotenv
 
-# Create environment file
-cp .env.example .env
 
-# Edit .env file and add your bot token
-nano .env
-```
 
-**Настройка переменных окружения:**
+**Настройка переменных окружения: создайте файл `.env` и введите следующее**
 ```bash
 # Telegram Bot Configuration
 TELEGRAM_BOT_TOKEN=ваш_токен
