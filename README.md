@@ -45,10 +45,10 @@ cd habit-tracker-bot
 pip install -r requirements.txt
 # Or Install dependencies
 pip install aiogram aiohttp python-dotenv
+```
 
+**Настройка переменных окружения: создайте файл `.env ` и введите следующее**
 
-
-**Настройка переменных окружения: создайте файл `.env` и введите следующее**
 ```bash
 # Telegram Bot Configuration
 TELEGRAM_BOT_TOKEN=ваш_токен
